@@ -1,0 +1,74 @@
+# Milestone 2 - Team Roles and Tasks
+
+## Team Name: Penta Power  
+## Project Title: Phoenix Foundation  
+
+---
+
+## Milestone Objectives
+- Define the UI/UX design for the Phoenix Foundation platform.  
+- Establish the front-end structure for critical pages.  
+- Begin integrating the database and backend support.  
+
+---
+
+## Team Roles and Responsibilities  
+
+### **Valeria Tabora - Project Manager**  
+- Oversee progress and ensure tasks are completed on time.  
+- Coordinate team meetings to review designs and gather feedback.  
+- Update the MS Project Gantt chart to track milestone progress.  
+- Prepare weekly updates to ensure team alignment and adherence to objectives.  
+
+### **Khajada Aranseiva - Frontend Developer**  
+- Design the wireframes for the homepage, donation page, and charity search page using Figma or Adobe XD.  
+- Develop the HTML/CSS/JavaScript structure for the web pages, ensuring responsiveness.  
+- Collaborate with the QA Specialist to ensure the UI aligns with user needs.  
+- Finalize the initial front-end prototype for review during the next presentation.  
+
+### **Ralph Alexandre - Backend Developer**  
+- Begin creating the basic backend structure to support front-end interactions.  
+- Collaborate with the Frontend Developer to connect UI elements with API endpoints.  
+- Set up the database schema for storing user profiles and charity data.  
+- Work on the initial integration of mock APIs to simulate charity data (e.g., GlobalGiving).  
+
+### **Avelino Alvarez - QA Specialist**  
+- Create a UI/UX testing plan, including test cases for accessibility, responsiveness, and usability.  
+- Perform initial testing of wireframes and front-end prototypes to identify potential issues.  
+- Ensure the platform is user-friendly and aligned with the project’s objectives.  
+- Document all testing results and suggest improvements to the Frontend Developer.  
+
+### **Melissa Rivas - Content Specialist**  
+- Write descriptions and sample content for the homepage, donation page, and charity search page.  
+- Populate the mock database with sample charity profiles and causes.  
+- Create presentation materials summarizing the designs and progress for the next milestone.  
+- Prepare documentation for GitHub, explaining the designs and roles/tasks for this milestone.  
+
+---
+
+## Tools and Technologies  
+
+### **Design Tools:**  
+- Figma, Adobe XD  
+
+### **Development Tools:**  
+- HTML, CSS, JavaScript with Node.js/Python Django/Flask, APIs 
+
+### **Collaboration Tools:**  
+- GitHub, Microsoft Teams, MS Project  
+
+---
+
+## Progress Updates  
+A section will be added to track work completed by each team member for this milestone.  
+
+---
+
+
+
+
+
+
+
+
+
